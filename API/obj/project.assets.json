@@ -12479,11 +12479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\API\\API.csproj",
+      "projectUniqueName": "c:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\API\\API.csproj",
+      "projectPath": "c:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\API\\API.csproj",
       "packagesPath": "C:\\Users\\sabin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\API\\obj\\",
+      "outputPath": "c:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12502,8 +12502,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Application\\Application.csproj"
+            "c:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Application\\Application.csproj": {
+              "projectPath": "c:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Application\\Application.csproj"
             }
           }
         }

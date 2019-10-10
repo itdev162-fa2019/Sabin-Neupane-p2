@@ -4060,11 +4060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "c:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Persistence\\Persistence.csproj",
+      "projectPath": "c:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\sabin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Persistence\\obj\\",
+      "outputPath": "c:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4083,8 +4083,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Domain\\Domain.csproj"
+            "c:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Domain\\Domain.csproj": {
+              "projectPath": "c:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Domain\\Domain.csproj"
             }
           }
         }
