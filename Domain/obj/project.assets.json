@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\sabin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

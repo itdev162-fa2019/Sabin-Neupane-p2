@@ -12,3 +12,17 @@ C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane\Application\obj\Debug\netstandard2
 C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
 C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane\Application\obj\Debug\netstandard2.0\Application.dll
 C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane\Application\obj\Debug\netstandard2.0\Application.pdb
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\bin\Debug\netstandard2.0\Application.dll
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\obj\Debug\netstandard2.0\Application.dll
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Application\obj\Debug\netstandard2.0\Application.pdb

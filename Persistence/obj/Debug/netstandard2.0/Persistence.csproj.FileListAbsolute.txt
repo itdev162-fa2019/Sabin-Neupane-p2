@@ -10,3 +10,15 @@ C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane\Persistence\obj\Debug\netstandard2
 C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
 C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane\Persistence\obj\Debug\netstandard2.0\Persistence.dll
 C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\Users\sabin\Desktop\ITDEV162\Sabin-Neupane-p2\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
