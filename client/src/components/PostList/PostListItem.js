@@ -13,7 +13,7 @@ const PostListItem = props => {
     clickPost(post);
     history.push(`/posts/${slug}`);
   };
-  const handlEditPost = post => {
+  const handleEditPost = post => {
     editPost(post);
     history.push(`/edit-post/$(post.id)`);
   };
@@ -26,7 +26,7 @@ const PostListItem = props => {
       </div>
       <div className="postControls">
         <button onClick={() => deletePost(post)}>Delete</button>
-        <button onClick={() => handlEditPost(post)}>Edit</button>
+        <button onClick={() => handleEditPost(post)}>Edit</button>
       </div>
     </div>
   );

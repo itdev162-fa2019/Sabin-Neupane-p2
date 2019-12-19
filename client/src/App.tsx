@@ -32,7 +32,7 @@ class App extends React.Component {
     this.setState({
       post: post
     });
-  };
+  }
   deletePost = post => {
     axios
       .delete(`http://localhost:5000/api/posts/${post.id}`)
@@ -76,13 +76,13 @@ class App extends React.Component {
     return (
       <Router>
         <div className="App">
-          <header className="App-header">Favorite Food and Description</header>
+            <header className="App-header">Favorite Food and Description</header>
           <nav>
-            <Link to="/">Main</Link>
+            <Link to="/"> Main</Link>
             <Link to="/new-post"> Add Food</Link>
           </nav>
           <main className="App-content">
-            <switch>
+            <Switch>
               <Route exact path="/">
                 <PostList
                   posts={posts}
@@ -100,7 +100,7 @@ class App extends React.Component {
               <Route path="./edit-post/:postId">
                 <EditPost post={post} onPostUpdated={this.onPostUpdated} />
               </Route>
-            </switch>
+            </Switch>
           </main>
         </div>
       </Router>

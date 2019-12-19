@@ -74,7 +74,7 @@ namespace API.Controllers
             }
 
             // Update the post properties with request values, if present.
-            post.Title = request.Title != null ? request.Title : post.Title;
+            post.Title = request.Title == null ? post.Title : request.Title;
             post.Body = request.Body != null ? request.Body : post.Body;
             post.Date = request.Date != null ? request.Date : post.Date;
 

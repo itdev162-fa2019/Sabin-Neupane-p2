@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\API\\API.csproj": {}
+    "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\APi\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\API\\API.csproj": {
+    "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\APi\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\APi\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\API\\API.csproj",
+        "projectPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\APi\\API.csproj",
         "packagesPath": "C:\\Users\\sabin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\API\\obj\\",
+        "outputPath": "C:\\Users\\sabin\\Desktop\\ITDEV162\\Sabin-Neupane-p2\\APi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
