@@ -68,7 +68,7 @@ const EditPost = ({ post, onPostUpdated }) => {
         value={body}
         onChange={e => onChange(e)}
       ></textarea>
-      <button onClick={() => update()}> Submit</button>
+      <button onClick={() => update()}>Submit</button>
     </div>
   );
 };
