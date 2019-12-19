@@ -76,10 +76,10 @@ class App extends React.Component {
     return (
       <Router>
         <div className="App">
-          <header className="App-header">BlogBox</header>
+          <header className="App-header">Favorite Food and Description</header>
           <nav>
-            <Link to="/">Home</Link>
-            <Link to="/new-post"> New Post</Link>
+            <Link to="/">Main</Link>
+            <Link to="/new-post"> Add Food</Link>
           </nav>
           <main className="App-content">
             <switch>

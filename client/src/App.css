@@ -1,5 +1,5 @@
 .App-header {
-    background-color: #c93c67;
+    background-color: blue;
     min-height: 10vh;
     display: flex;
     flex-direction: column;
@@ -21,7 +21,7 @@ nav {
     display: flex;
     justify-content: flex-start;
     padding: 10px;
-    background-color: #b8335c;
+    background-color: red;
 }
 
 nav a {

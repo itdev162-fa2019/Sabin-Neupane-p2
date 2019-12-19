@@ -56,7 +56,7 @@ const CreatePost = ({ onPostCreated }) => {
   };
   return (
     <div className="from-container">
-      <h2>Create New Post</h2>
+      <h2>Please Add favorite food and description </h2>
       <input
         name="title"
         type="text"
@@ -76,4 +76,4 @@ const CreatePost = ({ onPostCreated }) => {
   );
 };
 
-export default CreatePost;
+export default CreatePost; 
